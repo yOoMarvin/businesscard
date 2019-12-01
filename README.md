@@ -1,7 +1,9 @@
-It's me, Max!
+It's me, Marvin!
 
 # Usage
 
 ```
-npx mxstbr
+npx yoomarvin
 ```
+
+inspired by [businesscard](https://github.com/mxstbr/businesscard) from [Max Stoiber](https://github.com/mxstbr/)
